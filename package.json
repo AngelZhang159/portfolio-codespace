@@ -1,13 +1,13 @@
 {
-  "name": "educator-js-codespace-template",
+  "name": "portfolio",
   "version": "1.0.0",
-  "description": "Educator JS Codespace Template",
+  "description": "Portfolio",
   "source": "src/index.html",
-  "homepage": "https://AngelZhang159/github.io/portfolio-codespace",
+  "homepage": "https://angelzhang159.github.io/portfolio-codespace",
   "scripts": {
     "start": "parcel",
     "build": "parcel build",
-    "build-gh": "parcel build --public-url 'https://AngelZhang159.github.io/portfolio-codespace'",
+    "build-gh": "parcel build --public-url 'https://angelzhang159.github.io/portfolio-codespace'",
     "predeploy": "npm run build-gh",
     "deploy": "gh-pages -d dist"
   },
