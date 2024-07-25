@@ -2,7 +2,7 @@
 
 [portfolio-domain]: https://angelzhang.tech
 
-Welcome to my portfolio where i showcase some of my software development skills
+Welcome to my portfolio where I showcase some of my software development skills
 
 ### 1. Backend
 * [Springboot](https://github.com/AngelZhang159/armonia-skills-backend)
