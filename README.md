@@ -14,5 +14,3 @@ Welcome to my portfolio where I showcase some of my software development skills
 ## Structure of the website
 
 ![portfolio-route](src/images/portfolio-route.png)
-
-## React
